@@ -1,0 +1,9 @@
+.listItem{
+    padding: 20px;
+}
+.listItem:active{
+    padding: 20px;
+    background: blue;
+    border-radius: 15px;
+    color: #fff;
+}
